@@ -14,4 +14,4 @@ After scraping pictures of an object or a place from numerous sources like Twitt
 
 Objective 1: Scrap data
 
- * Write a python script to scrap pictures from Twitter
+ * Write a python script to scrape pictures from Twitter
