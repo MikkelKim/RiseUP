@@ -1,6 +1,6 @@
 # RiseUP
 
-######Don't ask
+######Don't ask.
 
 Contributors:
 
@@ -18,3 +18,21 @@ Objective 1: Scrap data
 
  * Write a python script to scrape pictures from Twitter
 
+## Dependencies
+
+Install [PIP][0]. Then run:
+
+```
+pip install -r requirements.txt
+```
+
+
+## Test
+
+```
+cd scraper && py.test
+```
+
+
+
+[0]: https://pip.pypa.io/en/stable/installing/
