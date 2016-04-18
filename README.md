@@ -6,7 +6,7 @@ Contributors:
 
  * [Mikkel Kim](https://github.com/MikkelKim)
  * [Jungmo Ku](https://github.com/suhojm)
- * [Hyunchel KIm](https://github.com/hyunchel)
+ * [Hyunchel Kim](https://github.com/hyunchel)
 
 ## Introduction
 
